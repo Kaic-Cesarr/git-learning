@@ -1,2 +1,5 @@
 const a = 10
-console.log(a)
+const p = 'pagamento'
+
+console.log(a, p)
+
